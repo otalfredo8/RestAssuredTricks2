@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db4643ff-5132-4563-87ac-41759f899b7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestingAPIs" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AOT" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\alfre\IdeaProjects\APIsTesting\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZHoCDRJ5bcmTOqmwIahQV2R956" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30715707" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+    <configuration name="GetApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyzTests.GetApiTest" />
+      <module name="APIsTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyzTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaUtilFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utilities.JavaUtilFunctions" />
+      <module name="APIsTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseSuiteTest.environmentFileSelectorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIsTesting" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baseSuiteTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="baseSuiteTest" />
+      <option name="MAIN_CLASS_NAME" value="baseSuiteTest.BaseSuiteTest" />
+      <option name="METHOD_NAME" value="environmentFileSelectorTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Denvironment=dev" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApiTest.GETTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIsTesting" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyzTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="xyzTests" />
+      <option name="MAIN_CLASS_NAME" value="xyzTests.GetApiTest" />
+      <option name="METHOD_NAME" value="GETTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Denvironment=dev" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApiTest.GETTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIsTesting" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyzTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="xyzTests" />
+      <option name="MAIN_CLASS_NAME" value="xyzTests.GetApiTest" />
+      <option name="METHOD_NAME" value="GETTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Denvironment=dev" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetApiTest.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIsTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyzTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyzTests" />
+      <option name="MAIN_CLASS_NAME" value="xyzTests.GetApiTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostApiTest.postAuthorTest" type="TestNG" nameIsGenerated="true">
+      <module name="APIsTesting" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyzTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="xyzTests" />
+      <option name="MAIN_CLASS_NAME" value="xyzTests.PostApiTest" />
+      <option name="METHOD_NAME" value="postAuthorTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Denvironment=dev" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="APIsTesting" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="VM_PARAMETERS" value="-Denvironment=dev" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GetApiTest" />
+      <item itemvalue="Application.JavaUtilFunctions" />
+      <item itemvalue="TestNG.GetApiTest.loginTest" />
+      <item itemvalue="TestNG.GetApiTest.GETTest" />
+      <item itemvalue="TestNG.PostApiTest.postAuthorTest" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.GetApiTest.GETTest" />
+        <item itemvalue="TestNG.GetApiTest.GETTest" />
+        <item itemvalue="TestNG.GetApiTest.loginTest" />
+        <item itemvalue="Application.GetApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db4643ff-5132-4563-87ac-41759f899b7f" name="Default Changelist" comment="" />
+      <created>1584505250760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584505250760</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Main files to create an API testing Framework.">
+      <created>1585369901463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585369901464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main files to create an API testing Framework" />
+    <MESSAGE value="Main files to create an API testing Framework." />
+    <option name="LAST_COMMIT_MESSAGE" value="Main files to create an API testing Framework." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1252" y="-69" key="#GetApiTest.GETTest_(1)" timestamp="1585351934664">
+      <screen x="-1920" y="-219" width="1920" height="1040" />
+    </state>
+    <state x="-1252" y="-69" key="#GetApiTest.GETTest_(1)/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585351934664" />
+    <state x="-1560" y="70" width="816" height="730" key="#Intentions" timestamp="1584810597764">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1560" y="70" width="816" height="730" key="#Intentions/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1584810597764" />
+    <state x="-1252" y="-69" key="#PostApiTest.postAuthorTest" timestamp="1585357154709">
+      <screen x="-1920" y="-219" width="1920" height="1040" />
+    </state>
+    <state x="-1252" y="-69" key="#PostApiTest.postAuthorTest/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585357154709" />
+    <state x="1918" y="-1196" key="#Project_Structure" timestamp="1584511125672">
+      <screen x="1366" y="-1374" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="-1196" key="#Project_Structure/0.0.1366.728/1366.-1374.1920.1040@1366.-1374.1920.1040" timestamp="1584511125672" />
+    <state x="1729" y="57" width="1092" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585369823261">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1557" y="-97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1585268727905" />
+    <state x="-1557" y="-162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585352176187" />
+    <state x="-1630" y="45" width="1092" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585085881691" />
+    <state x="1729" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369823261" />
+    <state x="-1372" y="116" width="898" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584794606458">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1372" y="116" width="898" height="591" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1584794606458" />
+    <state x="-1204" y="-200" width="390" height="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1585328633363">
+      <screen x="-1920" y="-219" width="1920" height="1040" />
+    </state>
+    <state x="-1204" y="-200" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585328633363" />
+    <state x="-1347" y="15" width="390" height="409" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1584824296812" />
+    <state x="371" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584725136454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="371" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1584725136454" />
+    <state x="1979" y="0" width="1030" height="930" key="CommitChangelistDialog2" timestamp="1585369897214">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1979" y="0" width="1030" height="930" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369897214" />
+    <state x="1873" y="112" key="FileChooserDialogImpl" timestamp="1585369324115">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1873" y="112" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369324115" />
+    <state width="1875" height="511" key="GridCell.Tab.0.bottom" timestamp="1585369844080">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="332" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1585272165134" />
+    <state width="1875" height="332" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585357160045" />
+    <state width="1321" height="332" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-219.1920.1040@0.0.1366.728" timestamp="1585357221523" />
+    <state width="1491" height="523" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585086252893" />
+    <state width="1491" height="305" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1584723245103" />
+    <state width="1876" height="349" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-1374.1920.1040@1366.-1374.1920.1040" timestamp="1584517255559" />
+    <state width="1875" height="511" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369844080" />
+    <state width="1875" height="511" key="GridCell.Tab.0.center" timestamp="1585369844080">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="332" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1585272165134" />
+    <state width="1875" height="332" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585357160045" />
+    <state width="1321" height="332" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-219.1920.1040@0.0.1366.728" timestamp="1585357221522" />
+    <state width="1491" height="523" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585086252892" />
+    <state width="1491" height="305" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1584723245103" />
+    <state width="1876" height="349" key="GridCell.Tab.0.center/0.0.1366.728/1366.-1374.1920.1040@1366.-1374.1920.1040" timestamp="1584517255558" />
+    <state width="1875" height="511" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369844080" />
+    <state width="1875" height="511" key="GridCell.Tab.0.left" timestamp="1585369844080">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="332" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1585272165134" />
+    <state width="1875" height="332" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585357160045" />
+    <state width="1321" height="332" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-219.1920.1040@0.0.1366.728" timestamp="1585357221522" />
+    <state width="1491" height="523" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585086252892" />
+    <state width="1491" height="305" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1584723245103" />
+    <state width="1876" height="349" key="GridCell.Tab.0.left/0.0.1366.728/1366.-1374.1920.1040@1366.-1374.1920.1040" timestamp="1584517255558" />
+    <state width="1875" height="511" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369844080" />
+    <state width="1875" height="511" key="GridCell.Tab.0.right" timestamp="1585369844080">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="332" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1585272165134" />
+    <state width="1875" height="332" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585357160045" />
+    <state width="1321" height="332" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-219.1920.1040@0.0.1366.728" timestamp="1585357221523" />
+    <state width="1491" height="523" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585086252893" />
+    <state width="1491" height="305" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1584723245103" />
+    <state width="1876" height="349" key="GridCell.Tab.0.right/0.0.1366.728/1366.-1374.1920.1040@1366.-1374.1920.1040" timestamp="1584517255559" />
+    <state width="1875" height="511" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369844080" />
+    <state x="1594" y="0" key="SettingsEditor" timestamp="1585369340910">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1692" y="-219" key="SettingsEditor/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585276599175" />
+    <state x="162" y="0" key="SettingsEditor/0.0.1366.728/-1920.-219.1920.1040@0.0.1366.728" timestamp="1585360001617" />
+    <state x="-1738" y="0" key="SettingsEditor/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1584794419366" />
+    <state x="162" y="0" key="SettingsEditor/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1584724917908" />
+    <state x="1594" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585369340910" />
+    <state x="377" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584726575668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="377" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1584726575668" />
+    <state width="1130" height="1038" key="javadoc.popup" timestamp="1585352254736">
+      <screen x="-1920" y="-219" width="1920" height="1040" />
+    </state>
+    <state width="634" height="632" key="javadoc.popup.new" timestamp="1585357140461">
+      <screen x="-1920" y="-219" width="1920" height="1040" />
+    </state>
+    <state width="634" height="632" key="javadoc.popup.new/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1585271912591" />
+    <state width="634" height="632" key="javadoc.popup.new/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585357140461" />
+    <state width="635" height="443" key="javadoc.popup.new/0.0.1366.728/-1920.-219.1920.1040@0.0.1366.728" timestamp="1585345522131" />
+    <state width="507" height="500" key="javadoc.popup.new/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585085376832" />
+    <state width="451" height="442" key="javadoc.popup.new/0.0.1366.728/-1920.0.1536.824@0.0.1366.728" timestamp="1585000737974" />
+    <state width="451" height="442" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1584991805188" />
+    <state width="507" height="500" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1584902220752" />
+    <state width="750" height="1038" key="javadoc.popup/0.0.1366.728/-1920.-154.1920.1040@-1920.-154.1920.1040" timestamp="1585271096532" />
+    <state width="1130" height="1038" key="javadoc.popup/0.0.1366.728/-1920.-219.1920.1040@-1920.-219.1920.1040" timestamp="1585352254736" />
+    <state width="600" height="822" key="javadoc.popup/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1584824825317" />
+    <state x="-1495" y="187" key="run.anything.popup" timestamp="1585079215681">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1495" y="187" key="run.anything.popup/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585079215681" />
+    <state x="-1489" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585079217831">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1489" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.0.1536.824@-1920.0.1536.824" timestamp="1585079217831" />
+  </component>
+</project>
