@@ -11,5 +11,5 @@ public class Builders {
         body.put("title", title);
         body.put("author", author);
         return body;
-    }
+}
 }

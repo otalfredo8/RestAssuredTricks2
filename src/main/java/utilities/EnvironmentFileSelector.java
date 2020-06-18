@@ -10,11 +10,11 @@ import java.util.Properties;
 public class EnvironmentFileSelector {
 
     public static Map<String, String> envMap = new HashMap<String, String>();
-
     private static Properties properties = new Properties();
+
     public static Map<String, String> envFileSelected (){
         //Here we set the system properties key
-        String sysProperKey = System.getProperty("environment");
+        String sysProperKey = System.getProperty("env");
 
         try {
             FileInputStream fileInputStreamDEV = new FileInputStream(System.getProperty("user.dir") + "/systemPropertiesInputs/dev.properties");
@@ -53,5 +53,4 @@ public class EnvironmentFileSelector {
         }
         return envMap;
     }
-
 }

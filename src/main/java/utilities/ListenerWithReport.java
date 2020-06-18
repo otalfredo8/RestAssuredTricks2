@@ -16,6 +16,7 @@ public class ListenerWithReport implements ITestListener {
     protected static ExtentTest extentTest;
     private static String resultPath = getResultPath();
 
+    //This method will handle File's NullPointerExeption by creating a File if it doesn't exist.
     private static String getResultPath(){
         //Directory name
         resultPath = "test";

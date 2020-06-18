@@ -10,8 +10,6 @@ import org.testng.annotations.Test;
 import utilities.JavaUtilFunctions;
 import verifications.ResponseVerifications;
 
-import java.util.Random;
-
 public class PojoPostApiTest extends BaseSuiteTest {
 
     @Test
@@ -28,9 +26,11 @@ public class PojoPostApiTest extends BaseSuiteTest {
                         .when().post(EndPointsPath.endPointPath.POST_AUTHOR);
 
         ResponseVerifications.statusCodeValidation(response, 201);
-        ResponseVerifications.timeLessThan1000(response);
+//        ResponseVerifications.timeLessThan1000(response);
         ResponseVerifications.keyExistsInJSONObjectValidation(response, "id");
         ResponseVerifications.keyValidationFromJsonObject(response, "title");
         ResponseVerifications.keyValidationFromJsonObject(response, "author");
     }
+
+
 }

@@ -17,4 +17,5 @@ public class BaseSuiteTest extends ListenerWithReport {
         // requestSpecification, defaultParser, responseSpecification, sessionId,... etc.
         RestAssured.baseURI = EnvironmentFileSelector.envFileSelected().get("ServerUrl");
     }
+
 }

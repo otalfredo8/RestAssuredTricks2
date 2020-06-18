@@ -7,7 +7,6 @@ import configs.EndPointsPath;
 import configs.Headers;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import utilities.JavaUtilFunctions;
 import verifications.ResponseVerifications;
@@ -24,7 +23,7 @@ public class PostApiTest extends BaseSuiteTest {
         extentTest.log(LogStatus.INFO, "My test is starting...");
 
         response = RestAssured.given().headers(headers.headersWithToken())
-                .body(builders.bodyBuilder("1252221" + JavaUtilFunctions.randonNumStr(),
+                .body(builders.bodyBuilder("125221" + JavaUtilFunctions.randonNumStr(),
                         "title-test2221"+ JavaUtilFunctions.randomString(),
                         "me-author2221" + JavaUtilFunctions.randomString()))
                 .when().post(EndPointsPath.endPointPath.POST_AUTHOR);

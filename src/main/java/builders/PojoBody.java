@@ -35,5 +35,14 @@ public class PojoBody {
         this.title = title;
     }
 
+    @Override
+    public String toString() {
+        return "PojoBody{" +
+                "author='" + author + '\'' +
+                ", title='" + title + '\'' +
+                ", id=" + id +
+                '}';
+    }
+
 
 }

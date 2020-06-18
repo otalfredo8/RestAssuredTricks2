@@ -6,10 +6,14 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.testng.Assert;
+import sun.rmi.runtime.Log;
 import utilities.JavaUtilFunctions;
 import utilities.ListenerWithReport;
+import static org.hamcrest.MatcherAssert.*;
+import static org.hamcrest.Matchers.*;
 
 public class ResponseVerifications extends ListenerWithReport {
+
 
     public static void statusCodeValidation(Response response, int statusCode) {
         try {
@@ -20,6 +24,15 @@ public class ResponseVerifications extends ListenerWithReport {
                     "Expected = " + statusCode + " Actual = " + response.getStatusCode());
             extentTest.log(LogStatus.FAIL, e.fillInStackTrace());
         }
+    }
+
+    public static boolean statusCodeValidationHamcrest(Response response, int statusCode){
+
+        assertThat(response.getStatusCode(), equalTo(statusCode));
+
+            extentTest.log(LogStatus.INFO, "pass");
+
+        return true;
     }
 
     public static void keyValidationFromJSONArraysFirstObject(Response response, String key, String value) {
@@ -86,7 +99,7 @@ public class ResponseVerifications extends ListenerWithReport {
         }
     }
 
-    public static void keyValuesValidationFromJsonArray (Response response, String key) {
+    public static void keyValuessValidationFromJsonArray (Response response, String key) {
 
         try {
             JSONArray array = new JSONArray(response.getBody().asString());
